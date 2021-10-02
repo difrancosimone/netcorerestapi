@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9F9C4367-3607-4726-98F1-273C3FE68596}|Default">
+  <MonoDevelop.Ide.ItemProperties.restapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="restapi/.gitignore">
+    <Files>
+      <File FileName="restapi/appsettings.json" Line="1" Column="1" />
+      <File FileName="restapi/Startup.cs" Line="50" Column="108" />
+      <File FileName="restapi/ReadMe.md" />
+      <File FileName="restapi/Models/TodoItem.cs" Line="6" Column="18" />
+      <File FileName="restapi/Program.cs" />
+      <File FileName="restapi/Controllers/TodoItemsController.cs" Line="9" Column="1" />
+      <File FileName="restapi/Models/TodoContext.cs" Line="7" Column="18" />
+      <File FileName="restapi/.dockerignore" Line="1" Column="1" />
+      <File FileName="restapi/.gitignore" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="restapi" expanded="True">
+            <Node name="restapi" expanded="True">
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
